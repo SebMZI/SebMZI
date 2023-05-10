@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100" borderRadius="50px"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" borderRadius="50px"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/sebastien-morazzani/">
