@@ -20,11 +20,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Frontend Developer in learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France 🇫🇷.
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France 🇫🇷.
 
-- :telescope: I’m learning to be a Web Integrator / Frontend Developer with <a href="https://openclassrooms.com/fr/">OpenClassrooms</a>.
+- :telescope: I’m a Web Integrator / Frontend Developer.
 
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently learning TypeScript and Three.js. 
 
 - :zap: In my free time, I try to pass some challenges on Codewars.
 
