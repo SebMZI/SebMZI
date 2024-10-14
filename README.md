@@ -24,9 +24,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m a Web Integrator / Frontend Developer.
 
-- 🌱 I’m currently learning TypeScript and Three.js. 
+- 🌱 I’m currently learning to be FullStack Developer. 
 
-- :zap: In my free time, I try to pass some challenges on Codewars.
+- :zap: In my free time, I'm learning and doing Forex Trading, playing video games.
 
 - :mailbox: If you want to reach me : [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-morazzani/)
 
