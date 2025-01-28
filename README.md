@@ -24,6 +24,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m a Web Integrator / Frontend Developer.
 
+- Currently working for Fivem Client
+
 - 🌱 I’m currently learning to be FullStack Developer. 
 
 - :zap: In my free time, I'm learning and doing Forex Trading, playing video games.
