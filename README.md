@@ -1,28 +1,78 @@
-# 💫 About Me:
-🔭 I'm currently learing to be a Fullstack developer<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3561bf35-8764-416c-9f1d-4992739dcc20" alt="MyBanner">
+</p>
+<p align="center">
+  Hi there, I'm Seb 👋🏻
+</p>
+<h1 align="center">I'm a Front-end Web Developer 💻, learning to be a Full-Stack Web Developer!</h1>
+<p>
+I have an insatiable thirst for knowledge and a deep curiosity about the world around me. I love coding projects that incorporate what I've recently learned, as it allows me to apply new concepts in practical ways. My interests span a wide range of subjects, and I'm always eager to explore and understand more. This passion for continuous learning fuels my creativity and drives me to develop innovative solutions.
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastien-morazzani/) 
+**🤝 Connect with me:**
+<br>
+<a href="https://www.linkedin.com/in/sebastien-morazzani/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkeding Logo">
+</a>
+<a href="https://ko-fi.com/sebmzi" target="_blank">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Logo">
+</a>
+<a href="https://buymeacoffee.com/sebmzi" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Ko-fi Logo">
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SebMZI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SebMZI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebMZI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SebMZI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔭 I'm currently working on
+- Authentification system
 
----
-[![](https://visitcount.itsvg.in/api?id=SebMZI&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌱 I'm currently learning
+- Node.Js
+- Express.Js
+- MongoDB
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sebmzi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/sebmzi) 
+## 💼 Stack
+<a href="#">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+<br><br>
+<a href="#">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<br><br>
+<a href="#">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 GitHub Stats
+
+[![SebMZI WakaTime stats](https://github-readme-stats.vercel.app/api?username=sebmzi)](https://github.com/anuraghazra/github-readme-stats)
