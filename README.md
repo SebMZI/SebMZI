@@ -75,4 +75,4 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 
 ## 📈 GitHub Stats
 
-[![SebMZI WakaTime stats](https://github-readme-stats.vercel.app/api?username=sebmzi)](https://github.com/anuraghazra/github-readme-stats)
+[![SebMZI WakaTime stats](https://github-readme-stats-three-plum-10.vercel.app/api?username=sebmzi)](https://github-readme-stats-three-plum-10.vercel.app/)
