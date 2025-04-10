@@ -76,6 +76,79 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 374.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 143 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+🌆 Daytime                760 commits         █████████████░░░░░░░░░░░░   51.08 % 
+🌃 Evening                505 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                306 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Thursday                 246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Sunday                   194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               26 repos            ████████████░░░░░░░░░░░░░   46.43 % 
+HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SebMZI/SebMZI/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/04/2025 15:07:21 UTC
 <!--END_SECTION:waka-->
 
 [![SebMZI WakaTime stats](https://github-readme-stats.vercel.app/api?username=SebMZI)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
