@@ -84,8 +84,6 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 
 > 📦 374.3 kB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -148,7 +146,7 @@ Lua                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SebMZI/SebMZI/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 15:07:21 UTC
+ Last Updated on 10/04/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
 
 [![SebMZI WakaTime stats](https://github-readme-stats.vercel.app/api?username=SebMZI)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
