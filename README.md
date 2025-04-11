@@ -150,5 +150,3 @@ Lua                      3 repos             █░░░░░░░░░░�
 
  Last Updated on 10/04/2025 20:30:30 UTC
 <!--END_SECTION:waka-->
-
-[![SebMZI WakaTime stats](https://github-readme-stats.vercel.app/api?username=SebMZI)](https://github-readme-stats.vercel.app/api?username=anuraghazra)
