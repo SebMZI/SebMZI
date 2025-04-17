@@ -26,9 +26,10 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 
 
 ## 🔭 I'm currently working on
-- Authentification system
+- Instant chat app
 
 ## 🌱 I'm currently learning
+- C
 - Node.Js
 - Express.Js
 - MongoDB
