@@ -77,15 +77,13 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,16 +118,16 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        48 mins             ████████████████████████░   95.31 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+C                        1 hr 26 mins        █████████████████████████   99.64 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-C Files                  48 mins             ████████████████████████░   95.61 % 
-maboucheriefrancaise     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+C Files                  1 hr 26 mins        █████████████████████████   99.81 % 
+maboucheriefrancaise     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,5 +143,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 18:47:12 UTC
+ Last Updated on 04/05/2025 18:47:43 UTC
 <!--END_SECTION:waka-->
