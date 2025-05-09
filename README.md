@@ -77,7 +77,7 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,14 +118,13 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        2 hrs 13 mins       █████████████████████████   99.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+C                        2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C Files                  2 hrs 13 mins       █████████████████████████   100.00 % 
+C Files                  2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +140,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2025 18:51:05 UTC
+ Last Updated on 09/05/2025 18:49:39 UTC
 <!--END_SECTION:waka-->
