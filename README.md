@@ -77,13 +77,15 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 374.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -147,5 +149,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 18:49:33 UTC
+ Last Updated on 17/05/2025 18:47:26 UTC
 <!--END_SECTION:waka-->
