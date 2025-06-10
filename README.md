@@ -118,13 +118,15 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               19 mins             █████████████████████████   98.27 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Satellites               20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +142,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 18:50:57 UTC
+ Last Updated on 10/06/2025 18:52:06 UTC
 <!--END_SECTION:waka-->
