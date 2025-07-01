@@ -77,8 +77,6 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -144,5 +142,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 18:52:12 UTC
+ Last Updated on 01/07/2025 18:51:28 UTC
 <!--END_SECTION:waka-->
