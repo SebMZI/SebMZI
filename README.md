@@ -83,11 +83,13 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 
 **🐱 My GitHub Data** 
 
-> 📦 384.4 kB Used in GitHub's Storage 
+> 📦 406.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 240 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
@@ -118,27 +120,27 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SnapBack-Caisse          4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   45.76 % 
-HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
+HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 02/07/2025 18:52:04 UTC
+ Last Updated on 03/07/2025 18:51:38 UTC
 <!--END_SECTION:waka-->
