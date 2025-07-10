@@ -120,13 +120,13 @@ Sunday                   202 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SnapBack-Caisse          4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +142,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2025 18:53:50 UTC
+ Last Updated on 10/07/2025 18:53:20 UTC
 <!--END_SECTION:waka-->
