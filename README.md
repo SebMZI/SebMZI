@@ -85,8 +85,6 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 
 > 📦 412.1 kB Used in GitHub's Storage 
  > 
-> 🏆 390 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -142,5 +140,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 18:44:10 UTC
+ Last Updated on 07/09/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
