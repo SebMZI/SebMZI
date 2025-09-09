@@ -120,13 +120,15 @@ Sunday                   232 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 10 mins        ██████████████████████░░░   86.05 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TheMovieList             1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +144,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 18:48:49 UTC
+ Last Updated on 09/09/2025 18:47:42 UTC
 <!--END_SECTION:waka-->
