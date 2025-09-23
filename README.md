@@ -77,15 +77,13 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 412.9 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2025
+> 🏆 437 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,44 +91,6 @@ I have an insatiable thirst for knowledge and a deep curiosity about the world a
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-🌆 Daytime                918 commits         █████████████░░░░░░░░░░░░   50.08 % 
-🌃 Evening                634 commits         █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Tuesday                  225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Wednesday                356 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Thursday                 273 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Sunday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               6 hrs 19 mins       █████████████████████████   99.33 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🐱‍💻 Projects: 
-TheMovieList             6 hrs 21 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -144,5 +104,5 @@ Lua                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 18:48:51 UTC
+ Last Updated on 23/09/2025 18:49:52 UTC
 <!--END_SECTION:waka-->
